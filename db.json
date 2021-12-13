@@ -1,5 +1,20 @@
 {
-  "logs": [],
+  "logs": [
+    {
+      "id": 1,
+      "message": "Fixed broken screen workstation 008",
+      "attention": false,
+      "tech": "Fred Flintstone",
+      "date": "2021-12-13T22:29:25.006Z"
+    },
+    {
+      "message": "Upgraded Ram to 64GB in server",
+      "attention": true,
+      "tech": "Jack Brown",
+      "date": "2021-12-13T22:12:51.012Z",
+      "id": 2
+    }
+  ],
   "techs": [
     {
       "id": 1,
