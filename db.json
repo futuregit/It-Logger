@@ -1,25 +1,11 @@
 {
   "logs": [
     {
-      "id": 2,
-      "message": "Changed hard drive on workstation 005",
+      "message": "Changed network card in workstation 24",
       "attention": false,
-      "date": "03-02-2021",
-      "tech": "Sam Smith"
-    },
-    {
-      "id": 1,
-      "message": "Workstation 007 not posting",
-      "attention": true,
-      "date": "03-02-2021",
-      "tech": "Jack Brown"
-    },
-    {
-      "id": 3,
-      "message": "Changed memory on workstation 050",
-      "attention": false,
-      "date": "03-02-2021",
-      "tech": "Fred Flintstone"
+      "tech": "Fred Flintstone",
+      "date": "2021-12-13T09:37:10.623Z",
+      "id": 1
     }
   ],
   "techs": [
